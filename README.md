@@ -1,13 +1,27 @@
 # がんばった記録 ^. _ . ^ 
+```
+// フォーマット
+## 
+- プログラミング学習
+  - 
 
+- メモ
+  - 
+
+- 調べた英単語・熟語
+  - 
+
+- 感想
+  - 
+```
 ## 0322
-プログラミング学習
-- GitHubのデコり方調べた
-  - プロフィールページにバッジつけたりステータスつけたりした
-- [React Foundations -Next.js](https://nextjs.org/learn/react-foundations)
-  - 最初から最後まで
-- [Learn Next.js -Next.js](https://nextjs.org/learn/dashboard-app)
-  - Chapter1~3
+- プログラミング学習
+  - GitHubのデコり方調べた
+    - プロフィールページにバッジつけたりステータスつけたりした
+  - [React Foundations -Next.js](https://nextjs.org/learn/react-foundations)
+    - 最初から最後まで
+  - [Learn Next.js -Next.js](https://nextjs.org/learn/dashboard-app)
+    - Chapter1~3
     - [clsx](https://github.com/lukeed/clsx): 条件付きでclassを指定したいときに使うライブラリ
     - [CLS](https://web.dev/articles/cls?hl=ja): 読み込みの際にビューにズレが生じないかの指標
     - Safariなどでフォントが太い場合、tailwindで`antialiased`を指定すると改善される可能性
@@ -30,3 +44,18 @@
 - 感想
   - チュートリアルをGoogle翻訳かけたらあまりにもひどいので、頑張って原文読んでみたら案外読めた。
   - このまま原文で読み続けて、英文への抵抗をなくしていきたい！ 
+
+## 0323
+- プログラミング学習
+  - 
+
+- メモ
+  - 
+
+- 調べた英単語・熟語
+  - reveal 明らかにする
+  - 
+
+- 感想
+  - 
+
