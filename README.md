@@ -57,6 +57,11 @@
       - `usePathname`とclsxを利用して、activeなリンクにスタイルを当てることができる
     - Chapter6 Setting Up Your Database
       - seeding: データベースに初期データを入れること
+    - Chapter7 Fetching Data
+      - データを取得する方法
+        - API layer
+        - Databaseにクエリ文で問い合わせる
+        - Server Components
 
 - メモ
   - なし
@@ -66,7 +71,10 @@
   - sibling 兄弟姉妹
   - likelihood　可能性、もっともらしさ、尤度関数
   - conditionally 条件付きで
-  - 
+  - implement 実装する
+  - versatile 用途が広い
+  - discriminate 差別する、判別する
+  - manipulate 操作する
 
 - 感想
   - 
