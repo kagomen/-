@@ -47,13 +47,25 @@
 
 ## 0323
 - プログラミング学習
-  - 
+  - [Learn Next.js -Next.js](https://nextjs.org/learn/dashboard-app)
+    - Chapter4 Creating Layouts and Pages
+      - `layout.tsx`で記述した部分は`{children}`がレンダリングされても再レンダリングされない
+    - Chapter5 Navigating Between Pages
+      - Linkコンポーネントを使用するととcode-splitingとprefetchが適用される
+      - prefetchは本番環境でのみ適用され、開発環境では適用されない
+      - prefetchが適用されると戻るボタン・進むボタンをクリックしても、スクロール位置が記録される
+      - `usePathname`とclsxを利用して、activeなリンクにスタイルを当てることができる
+    - Chapter6 Setting Up Your Database
+      - seeding: データベースに初期データを入れること
 
 - メモ
-  - 
+  - なし
 
 - 調べた英単語・熟語
   - reveal 明らかにする
+  - sibling 兄弟姉妹
+  - likelihood　可能性、もっともらしさ、尤度関数
+  - conditionally 条件付きで
   - 
 
 - 感想
