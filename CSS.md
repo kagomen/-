@@ -38,3 +38,49 @@
 - `width: fit-content;`
 
 ## セレクター
+
+- 属性セレクター
+  - `[target] { ... }`
+  - `[type="text"] {...}`
+- 複合セレクター
+  - `div.box {...}`
+- 子結合子
+  - `section > p {...}`
+    - section の子要素の p を指定
+- 子孫結合子
+  - `section p {...}`
+    - section の子孫要素の p を指定
+- 隣接兄弟結合子
+  - `li + li {...}`
+    - li の 2 番目以降の全ての要素を指定
+- 擬似クラス
+  - `li:hth-child(3) {...}`
+    - li の 3 番目を指定
+  - `li:nth-child(odd) {...}`
+    - li の奇数番目を指定
+  - `li:nth-child(even) {...}`
+    - li の偶数番目を指定
+  - `li:nth-child(2n) {...}`
+    - li の 2 の倍数番目を指定
+  - `li:first-child {...}`
+    - li の最初の要素を指定
+  - `li:last-child {...}`
+    - li の最後の要素を指定
+  - `input:focus {...}`
+    - input の focus 時を指定
+  - `div:not(.box) {...}`
+    - box クラス以外の div を指定
+- 擬似要素
+  - `p::before {content: '- ';}`
+
+## CSS 変数
+
+```
+  :root {
+    --base-color: gray;
+  }
+
+  body {
+    background: var(--base-color);
+  }
+```

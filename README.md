@@ -6,15 +6,11 @@
 
 ---
 
-### 4 月の予定
-
-- ゲームで学ぶ JavaScript 入門
-- Figma
-  - デザインカンプ作れるようにする
-
 ### 5 月の予定
 
-- ゲームで学ぶ JavaScript 入門
-- Node.js - Udemy
-  - Web API 使ってアプリ作る
+- First Contributions JA v2.0 開発
+- 『ゲームで学ぶ JavaScript 入門』 最後までやりきる
+- 『リーダブルコード』を読む
+- 『プロになるための Web 技術入門』を読む
+- TypeScript でソースコードを書いてみる
 - 就活！
