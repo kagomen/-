@@ -1,4 +1,4 @@
-## アルゴリズム
+# アルゴリズム
 
 - Fisher–Yates shuffle
 

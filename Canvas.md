@@ -1,4 +1,4 @@
-## Canvas
+# Canvas
 
 - arc(x, y, r, startAngle, endAngle, anticlockwise)
 
