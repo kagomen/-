@@ -26,3 +26,19 @@
   - 使用する際は`@include button`と呼び出す
   - `@mixin button($color)`などとして、引数の設定が可能
     - `@mixin button($color: blue)`としてデフォルト値の設定も可能
+
+```
+npm i -D sass
+```
+
+```
+// package.json
+
+  "scripts": {
+    "sass": "sass src/sass/style.scss build/css/style.css --watch"
+  },
+```
+
+```
+npm run sass
+```

@@ -41,3 +41,10 @@
     g.restore();
   }
   ```
+
+- フォントの使用
+
+  - CSS の`@font-face`で読み込んだフォントを使用できる
+
+- テキストの中央寄せ
+  - `g.textAlign = "center";`
