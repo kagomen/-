@@ -41,8 +41,14 @@
 
     - 【継続】Udemy で React の基礎を学習
     - [共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
-      - GitHub の使い方について学ぶ
+      - チーム開発における GitHub の使い方について学ぶ
+        - イシューのたて方
+        - プルリク・コードレビューの方法
+        - Discussions や Projects の使い方
+        - テンプレートの作成方法
+        - セマンティックバージョニングについて
       - 考えたことの言語化・伝え方・チームでの立ち振る舞いについて模索
+      - アイデア出しは FigJam を使用した
 
   - 4 月
 
@@ -62,11 +68,12 @@
       - [Pixabay API を使った画像検索アプリ](https://pixabay-api-app.pages.dev/)
       - [Spotify API を使った音楽検索アプリ](https://spotify-api-app.pages.dev/)
     - オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作に着手
-      - ルーティング(React Router)について学ぶ
 
   - 6 月
 
     - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作
+      - ルーティング(React Router)について学ぶ
+      - 配列を使ってキャッシュを行い、キャッシュの仕組みについて学ぶ
       - Hooks を使ったパフォーマンスの最適化を学ぶ
       - セキュアにデータを扱うためにプロキシサーバを利用する
     - 『プロになるための Web 技術入門』を読む
