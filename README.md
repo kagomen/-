@@ -1,6 +1,6 @@
 ## 🐌 概要
 
-- 月ごとに日々の学習内容を簡潔に md ファイルに記録してます
+- 月ごとに日々の学習内容を md ファイルに記録しています
 
   - [2024 年 4 月分](https://github.com/kagomen/activities-log/blob/main/2024-04.md)
   - [2024 年 5 月分](https://github.com/kagomen/activities-log/blob/main/2024-05.md)
@@ -17,22 +17,24 @@
 
   - 12 月
 
-    - ドットインストールで HTML/CSS/JavaScript/PHP の基礎を学習
+    - ドットインストールで HTML, CSS, JavaScript, PHP の基礎を学習
 
 - 2024 年
 
   - 1 月
 
-    - ドットインストール「JavaScript でミニアプリをつくろう」
-      - [ビンゴシートアプリ](https://kagomen.github.io/BingoSheet/)
-      - [カレンダーアプリ](https://kagomen.github.io/Calendar/)
-      - [ストップウォッチアプリ](https://kagomen.github.io/Stopwatch/)
-      - [ToDo アプリ](https://kagomen.github.io/TodoApp-js/)
+    - ドットインストール「JavaScript でミニアプリをつくろう」を見ながらアプリを制作
+      - CSS 部分のみオリジナル
+        - [ビンゴシートアプリ](https://kagomen.github.io/BingoSheet/)
+        - [カレンダーアプリ](https://kagomen.github.io/Calendar/)
+        - [ストップウォッチアプリ](https://kagomen.github.io/Stopwatch/)
+        - [ToDo アプリ](https://kagomen.github.io/TodoApp-js/)
     - ドットインストールで React と Laravel の基礎を学習
 
   - 2 月
 
-    - Astro と microCMS で個人ブログを作成
+    - Astro と microCMS で[個人ブログ](https://kagome.pages.dev/)を制作
+      - 運用せず。[Scrapbox](https://scrapbox.io/kagomen/)を継続利用中
     - Udemy で React の基礎を学習
 
   - 3 月
