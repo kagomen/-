@@ -35,18 +35,18 @@
 
     - Astro と microCMS で[個人ブログ](https://kagome.pages.dev/)を制作
       - 運用せず。[Scrapbox](https://scrapbox.io/kagomen/)を継続利用中
-    - Udemy で React の基礎を学習
+    - [Udemy](https://www.udemy.com/course/react-complete-guide/) で React の基礎を学習
 
   - 3 月
 
-    - Udemy で React の基礎を学習
+    - 【継続】[Udemy](https://www.udemy.com/course/react-complete-guide/) で React の基礎を学習
     - [共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
       - GitHub の使い方について学ぶ
       - 言語化・伝え方について模索
 
   - 4 月
 
-    - [共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に継続参加
+    - 【継続】[共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
       - [Version1.0.0](https://github.com/first-contributions-ja/first-contributions-ja.github.io/releases/tag/v1.0.0)リリース
     - JavaScript でゲームアプリを作る
       - [10 秒ストップウォッチゲーム](https://kagomen.github.io/10second-game/)
@@ -66,7 +66,7 @@
 
   - 6 月
 
-    - オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作を継続
+    - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作
       - Hooks を使ったパフォーマンスの最適化
       - セキュアにデータを扱うためにプロキシサーバを利用
     - 『プロになるための Web 技術入門』を読む
