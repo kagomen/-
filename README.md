@@ -35,11 +35,11 @@
 
     - Astro と microCMS で[個人ブログ](https://kagome.pages.dev/)を制作
       - 運用せず。[Scrapbox](https://scrapbox.io/kagomen/)を継続利用中
-    - [Udemy](https://www.udemy.com/course/react-complete-guide/) で React の基礎を学習
+    - Udemy で React の基礎を学習
 
   - 3 月
 
-    - 【継続】[Udemy](https://www.udemy.com/course/react-complete-guide/) で React の基礎を学習
+    - 【継続】Udemy で React の基礎を学習
     - [共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
       - GitHub の使い方について学ぶ
       - 言語化・伝え方について模索
