@@ -42,7 +42,7 @@
   - 5 月
 
     - JavaScript でゲームアプリを作る
-    - [倉庫番アプリ](https://kagomen.github.io/sokoban/)
+      - [倉庫番アプリ](https://kagomen.github.io/sokoban/)
     - モダン JavaScript、周辺技術を調査
       - 主に Webpack, Babel, npm, Vite, TypeScript などの役割や設定ファイルの記述方法について
     - React と Web API の扱い方を簡単なアプリを作りながら学ぶ
