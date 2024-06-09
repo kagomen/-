@@ -1,13 +1,13 @@
 ## 🐌 概要
 
-- 月ごとに日々の学習内容を md ファイルに記録してます
+- 月ごとに日々の学習内容を簡潔に md ファイルに記録してます
 
   - [2024 年 4 月分](https://github.com/kagomen/activities-log/blob/main/2024-04.md)
   - [2024 年 5 月分](https://github.com/kagomen/activities-log/blob/main/2024-05.md)
   - [2024 年 6 月分](https://github.com/kagomen/activities-log/blob/main/2024-06.md)
 
-- 技術メモをまとめたディレクトリ
-  - [TIL](https://github.com/kagomen/activities-log/tree/main/TIL)
+- 技術的なメモをまとめたディレクトリ
+  - [study-notes](https://github.com/kagomen/activities-log/tree/main/TIL)
 
 ---
 
@@ -57,9 +57,8 @@
     - モダン JavaScript、周辺技術を調査
       - 主に Webpack, Babel, npm, Vite, TypeScript などの役割や設定ファイルの記述方法について
     - React と Web API の扱い方を簡単なアプリを作りながら学ぶ
-      - デプロイ先を GitHub Pages から Cloudflare Pages に変更
-      - [Pixabay API で画像検索アプリ](https://pixabay-api-app.pages.dev/)
-      - [Spotify API で音楽検索アプリ](https://spotify-api-app.pages.dev/)
+      - [Pixabay API を使った画像検索アプリ](https://pixabay-api-app.pages.dev/)
+      - [Spotify API を使った音楽検索アプリ](https://spotify-api-app.pages.dev/)
     - オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作に着手
       - ルーティングについて学ぶ
 
