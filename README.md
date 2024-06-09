@@ -7,7 +7,7 @@
   - [2024 年 6 月分](https://github.com/kagomen/activities-log/blob/main/2024-06.md)
 
 - 技術的なメモをまとめたディレクトリ
-  - [study-notes](https://github.com/kagomen/activities-log/tree/main/TIL)
+  - [study-notes](https://github.com/kagomen/study-log/tree/main/study-notes)
 
 ---
 
