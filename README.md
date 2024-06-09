@@ -1,6 +1,17 @@
-## 🐌 Activities Log
+## 🐌 学習記録
 
-### summary
+- 月ごとに日々の学習内容を md ファイルに記録してます
+
+  - [2024 年 4 月分](https://github.com/kagomen/activities-log/blob/main/2024-04.md)
+  - [2024 年 5 月分](https://github.com/kagomen/activities-log/blob/main/2024-05.md)
+  - [2024 年 6 月分](https://github.com/kagomen/activities-log/blob/main/2024-06.md)
+
+- 技術メモをまとめたディレクトリ
+  - [TIL](https://github.com/kagomen/activities-log/tree/main/TIL)
+
+---
+
+### まとめ
 
 - 2023 年
 
