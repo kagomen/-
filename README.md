@@ -42,31 +42,31 @@
     - 【継続】Udemy で React の基礎を学習
     - [共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
       - GitHub の使い方について学ぶ
-      - 言語化・伝え方について模索
+      - 考えたことの言語化・伝え方・チームでの立ち振る舞いについて模索
 
   - 4 月
 
     - 【継続】[共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
       - [Version1.0.0](https://github.com/first-contributions-ja/first-contributions-ja.github.io/releases/tag/v1.0.0)リリース
-    - JavaScript でゲームアプリを作る
+    - JavaScript で簡単なゲームアプリを 1 から作る
       - [10 秒ストップウォッチゲーム](https://kagomen.github.io/10second-game/)
       - [15 パズルゲーム](https://kagomen.github.io/15puzzle/)
 
   - 5 月
 
-    - JavaScript でゲームアプリを作る
-      - [倉庫番アプリ](https://kagomen.github.io/sokoban/)
-    - モダン JavaScript、周辺技術を調査
-      - 主に Webpack, Babel, npm, Vite, TypeScript などの役割や設定ファイルの記述方法について
-    - React と Web API の扱い方を簡単なアプリを作りながら学ぶ
+    - JavaScript でゲームアプリを 1 から作る
+      - [倉庫番ゲーム](https://kagomen.github.io/sokoban/)
+    - モダン JavaScript とその周辺技術を調査
+      - Webpack, Babel, npm, Vite, TypeScript などの役割や設定ファイルの記述方法について
+    - React での Web API の扱い方を簡単なアプリを作りながら学ぶ
       - [Pixabay API を使った画像検索アプリ](https://pixabay-api-app.pages.dev/)
       - [Spotify API を使った音楽検索アプリ](https://spotify-api-app.pages.dev/)
     - オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作に着手
-      - ルーティングについて学ぶ
+      - ルーティング(React Router)について学ぶ
 
   - 6 月
 
     - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作
-      - Hooks を使ったパフォーマンスの最適化
-      - セキュアにデータを扱うためにプロキシサーバを利用
+      - Hooks を使ったパフォーマンスの最適化を学ぶ
+      - セキュアにデータを扱うためにプロキシサーバを利用する
     - 『プロになるための Web 技術入門』を読む
