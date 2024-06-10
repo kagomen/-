@@ -62,6 +62,7 @@
 
 - JavaScript でゲームアプリを 1 から作る
   - [倉庫番ゲーム](https://kagomen.github.io/sokoban/)
+    - ビット演算について学ぶ
 - モダン JavaScript とその周辺技術を調査
   - Webpack, Babel, npm, Vite, TypeScript などの役割や設定ファイルの記述方法について
 - React での Web API の扱い方を簡単なアプリを作りながら学ぶ
