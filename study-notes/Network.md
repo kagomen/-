@@ -57,7 +57,18 @@
 
   - DMARC(Domain-based Message Authentication, Reporting, and Conformance)
     - 送信側でメールのポリシーを公開し、SPF や DKIM による送信元ドメインを補助する仕組み
-    - 認証の失敗時にどのようにメールを扱うかや、失敗時のレポートを送信する指示などが書かれている
+    - ポリシー（p）
+      - 検証の失敗時にどのようにメールを扱うかを設定する
+    - ポリシーの種類
+      - none
+        - 通常のメールとして扱う
+      - quarantine
+        - 隔離して迷惑メールフォルダに入れる
+      - reject
+        - メールを破棄する
+    - 集約レポートの送り先（rua）
+      - 検証失敗時のレポートの送信先を設定する
+        - 自分のドメインになりすまされたメールがどれくらい発生しているのかを把握することができる
 
 ## メールに使用されるプロトコル
 
@@ -115,5 +126,6 @@
 - https://www.youtube.com/watch?v=RbygSd1f0dk
 - https://www.youtube.com/watch?v=tcw2kT2DjL4
 - https://www.youtube.com/watch?v=rMw4NcfPrN8
+- https://www.youtube.com/watch?v=sBODqtd6Z0A
 
 ---
