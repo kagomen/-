@@ -72,7 +72,7 @@
 
 ## 6 月
 
-- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作・v1 のリリース
   - ルーティング(React Router)について学ぶ
   - useContext を利用してキャッシュを行い、キャッシュの仕組みについて学ぶ
   - ReactQuery や useSWR を使用したキャッシュ方法について学ぶ
@@ -90,7 +90,7 @@
 
 ## 7 月
 
-- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作・リリース
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作・v2 ローンチ
   - Supabase を使ったデータベース連携
   - ログイン機能の実装
 - TypeScript と Next.js を使った簡単なアプリ制作の着手
