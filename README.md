@@ -91,6 +91,7 @@
 ## 7 月
 
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作・v2 ローンチ
+  - Cloudflare Turnstile の実装
   - Supabase を使ったデータベース連携
   - ログイン機能の実装
 - TypeScript と Next.js を使った簡単なアプリ制作の着手
