@@ -128,8 +128,62 @@
   - `type="module"`にした場合、defer 属性は記載せずとも自動的に付与される
 
 - 再エクスポート
+
   - 複数のモジュールをまとめて export する中核のモジュールを作る
+
   ```
   export {hoge} from './hoge.js';
   export {fuga} from './fuga.js';
   ```
+
+- for in
+  - 配列の**インデックス番号**を使用して配列をすべて処理する
+  - オブジェクトにも使用可
+
+```js
+const array = ["a", "b", "c", "d"];
+
+for (let i in array) {
+  console.log(array[i]);
+}
+
+const obj = {
+  name: "aaa",
+  age: "20",
+};
+
+for (let key in obj) {
+  console.log(key, obj[key]);
+}
+```
+
+- for of
+  - 配列の**要素**を使用して配列をすべて処理する
+  - オブジェクトには使用不可
+
+```js
+const array = ["a", "b", "c", "d"];
+
+for (let item of array) {
+  console.log(item);
+}
+```
+
+- forEach
+  - 引数に要素とインデックスをとる
+  - オブジェクトには使用不可
+
+```js
+const array = ["a", "b", "c", "d"];
+
+array.forEach((item, index) => {
+  console.log(item, index);
+});
+```
+
+- Unicode 正規化形式
+
+  - NFC（デフォルト）
+  - NFD
+  - NFKC
+  - NFKD
