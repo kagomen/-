@@ -84,6 +84,12 @@
 - 『プロになるための Web 技術入門』5 章まで
 - 『フロントエンドの知識地図』読了
 
+## 7 月
+
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作
+  - Cloudflare Turnstile の実装
+  - Hono と Workers でバックエンドの実装
+
 ---
 
 ## これからの予定
