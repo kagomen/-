@@ -89,6 +89,7 @@
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作
   - Cloudflare Turnstile の実装
   - Hono と Workers でバックエンドの実装
+  - Supabase を利用した認証機能の実装
 
 ---
 
@@ -98,8 +99,15 @@
 
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作・v2 ローンチ
   - Cloudflare Turnstile の実装
-  - Supabase を使ったデータベース連携
-  - ログイン機能の実装
+  - Supabase を使ったログイン機能・お気に入り機能の実装
+  - JWT について調査
+- 『リーダブルコード』
+- 『Web 技術の基本』
+- 『Web API: The Good Parts』
+
+## 8 月
+
 - TypeScript と Next.js を使った簡単なアプリ制作の着手
+  - PostgreSQL と Prisma を使用してデータベースまわりの理解を深める
   - テストや CI/CD を組んで開発をする
-- 『リーダブルコード』を読む
+- 『Web API: The Good Parts』
