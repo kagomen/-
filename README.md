@@ -87,11 +87,6 @@
 
 ## 7 月
 
-- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作
-  - Cloudflare Turnstile の実装
-  - Hono と Workers でバックエンドの実装
-  - Supabase を利用した認証機能の実装
-
 ---
 
 ## これからの予定
@@ -101,7 +96,9 @@
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作・v2 ローンチ
   - Cloudflare Turnstile の実装
   - Supabase を使ったログイン機能・お気に入り機能の実装
-  - JWT について調査
+- Hono, Workers, Pages Functions の調査・練習
+- Supabase を使った Auth, Oauth の調査・練習
+- JWT の調査・練習
 - 『リーダブルコード』
 - 『Web 技術の基本』
 - 『Web API: The Good Parts』
