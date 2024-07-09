@@ -2,9 +2,10 @@
 
 - 月ごとに日々の学習内容を md ファイルに記録しています
 
-  - [2024 年 4 月分](https://github.com/kagomen/activities-log/blob/main/2024-04.md)
-  - [2024 年 5 月分](https://github.com/kagomen/activities-log/blob/main/2024-05.md)
-  - [2024 年 6 月分](https://github.com/kagomen/activities-log/blob/main/2024-06.md)
+  - [2024 年 4 月分](https://github.com/kagomen/study-log/blob/main/2024-04.md)
+  - [2024 年 5 月分](https://github.com/kagomen/study-log/blob/main/2024-05.md)
+  - [2024 年 6 月分](https://github.com/kagomen/study-log/blob/main/2024-06.md)
+  - [2024 年 7 月分](https://github.com/kagomen/study-log/blob/main/2024-07.md)
 
 - 技術的なメモをまとめたディレクトリ
   - [study-notes](https://github.com/kagomen/study-log/tree/main/study-notes)
