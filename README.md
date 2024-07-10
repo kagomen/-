@@ -85,8 +85,6 @@
 - 『プロになるための Web 技術入門』5 章まで
 - 『フロントエンドの知識地図』読了
 
-## 7 月
-
 ---
 
 ## これからの予定
@@ -99,6 +97,7 @@
 - Hono, Workers, Pages Functions の調査・練習
 - Supabase を使った Auth, Oauth の調査・練習
 - JWT の調査・練習
+  - ハッシュ化, バリデーションの理解
 - 『リーダブルコード』
 - 『Web 技術の基本』
 - 『Web API: The Good Parts』
