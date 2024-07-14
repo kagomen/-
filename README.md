@@ -77,7 +77,6 @@
   - ルーティング(React Router)について学ぶ
   - useContext を利用してキャッシュを行い、キャッシュの仕組みについて学ぶ
   - ReactQuery や useSWR を使用したキャッシュ方法について学ぶ
-  - Hooks を使ったパフォーマンスの最適化を学ぶ
   - セキュアにデータを扱うために API を建てる
   - React Hook Form と Yup/Zod を使用したフォーム作成を学ぶ
   - Resend を使用したメール送信の方法を学ぶ
@@ -95,9 +94,12 @@
   - Cloudflare Turnstile の実装
   - ログイン機能・お気に入り機能の実装
 - Hono, Workers, Pages Functions の調査・練習
-- 認証・認可についての理解
-  - OAuth, Open ID Connect, JWT, Session ID, Cookie など
-  - ハッシュ化, バリデーションの理解
+- Session ID, Cookie を使った認証の方法を理解
+- ハッシュ化, バリデーションの理解
+- 最近の認証・認可についての理解
+  - OAuth, Open ID Connect, JWT
+  - JWT でのアクセストークンとリフレッシュトークンの使い方
+  - Basic 認証, Digest 認証, Bearer 認証の理解
 - 『Web 技術の基本』 読了
 - 『フロントエンド開発のためのセキュリティ入門』 読了
 
@@ -106,5 +108,5 @@
 - TypeScript と Next.js を使った簡単なアプリ制作の着手
   - PostgreSQL と Prisma を使用してデータベースまわりの理解を深める
   - テストや CI/CD を組んで開発をする
-- 『リーダブルコード』
+- 『Web を支ええる技術』
 - 『Web API: The Good Parts』
