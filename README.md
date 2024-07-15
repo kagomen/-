@@ -96,10 +96,10 @@
 - Hono, Workers, Pages Functions の調査・練習
 - Session ID, Cookie を使った認証の方法を理解
 - ハッシュ化, バリデーションの理解
-- 最近の認証・認可についての理解
-  - OAuth, Open ID Connect, JWT
-  - JWT でのアクセストークンとリフレッシュトークンの使い方
-  - Basic 認証, Digest 認証, Bearer 認証の理解
+- OAuth, Open ID Connect, JWT の理解
+- Basic 認証, Digest 認証, Bearer 認証の理解
+- JWT でのアクセストークンとリフレッシュトークンの使い方
+- OAuth Providers, Auth.js, Clerk などの調査
 - 『Web 技術の基本』 読了
 - 『フロントエンド開発のためのセキュリティ入門』 読了
 
