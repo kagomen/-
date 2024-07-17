@@ -106,7 +106,6 @@
 ## 8 月
 
 - TypeScript と Next.js を使った簡単なアプリ制作の着手
-  - PostgreSQL と Prisma を使用してデータベースまわりの理解を深める
   - テストや CI/CD を組んで開発をする
 - 『Web を支ええる技術』
 - 『Web API: The Good Parts』
