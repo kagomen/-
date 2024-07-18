@@ -99,9 +99,9 @@
 - OAuth, Open ID Connect, JWT の理解
 - Basic 認証, Digest 認証, Bearer 認証の理解
 - JWT でのアクセストークンとリフレッシュトークンの使い方
-- OAuth Providers, Auth.js, Clerk などの調査
+- React Query の useMutation を使った fetch 処理
 - 『Web 技術の基本』 読了
-- 『フロントエンド開発のためのセキュリティ入門』 読了
+- 『フロントエンド開発のためのセキュリティ入門』
 
 ## 8 月
 
