@@ -84,15 +84,13 @@
 - 『プロになるための Web 技術入門』5 章まで
 - 『フロントエンドの知識地図』読了
 
----
-
-## これからの予定
-
 ## 7 月
 
-- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) の制作・v2 ローンチ
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) v2 の制作
+  - shadcn/ui を使った UI のコンポーネント化
+  - Framer Motion を使った簡単なアニメーションの実装
   - Cloudflare Turnstile の実装
-  - ログイン機能・お気に入り機能の実装
+  - ログイン機能の実装
 - Hono, Workers, Pages Functions の調査・練習
 - Session ID, Cookie を使った認証の方法を理解
 - ハッシュ化, バリデーションの理解
@@ -101,11 +99,16 @@
 - JWT でのアクセストークンとリフレッシュトークンの使い方
 - React Query の useMutation を使った fetch 処理
 - 『Web 技術の基本』 読了
-- 『フロントエンド開発のためのセキュリティ入門』
+
+---
+
+## これからの予定
 
 ## 8 月
 
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) v2 の制作・リリース
 - TypeScript と Next.js を使った簡単なアプリ制作の着手
   - テストや CI/CD を組んで開発をする
 - 『Web を支ええる技術』
 - 『Web API: The Good Parts』
+- 『フロントエンド開発のためのセキュリティ入門』
