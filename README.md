@@ -90,13 +90,13 @@
   - shadcn/ui を使った UI のコンポーネント化
   - Framer Motion を使った簡単なアニメーションの実装
   - Cloudflare Turnstile の実装
-  - ログイン機能の実装
+  - Cloudflare D1, Drizzle ORM, Lucia を使って認証機能の実装
 - Hono, Workers, Pages Functions の調査・練習
 - Session ID, Cookie を使った認証の方法を理解
 - ハッシュ化, バリデーションの理解
 - OAuth, Open ID Connect, JWT の理解
 - Basic 認証, Digest 認証, Bearer 認証の理解
-- JWT でのアクセストークンとリフレッシュトークンの使い方
+- JWT でのアクセストークンとリフレッシュトークンの使い方（ブラックリストは未実装）
 - React Query の useMutation を使った fetch 処理
 - 『Web 技術の基本』 読了
 
@@ -106,9 +106,9 @@
 
 ## 8 月
 
-- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) v2 の制作・リリース
-- TypeScript と Next.js を使った簡単なアプリ制作の着手
-  - テストや CI/CD を組んで開発をする
-- 『Web を支ええる技術』
-- 『Web API: The Good Parts』
-- 『フロントエンド開発のためのセキュリティ入門』
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v2 リリース
+  - ユーザー設定の実装
+  - お気に入り機能の実装
+  - 余裕があればテスト
+  - README などの整備
+- 就活開始
