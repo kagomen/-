@@ -1,18 +1,16 @@
 ## 🐌 概要
 
-- 月ごとに日々の学習内容を md ファイルに記録しています
+- 月毎に、日々の学習内容を簡単に記録しています
 
-  - [2024 年 4 月分](https://github.com/kagomen/study-log/blob/main/2024-04.md)
-  - [2024 年 5 月分](https://github.com/kagomen/study-log/blob/main/2024-05.md)
-  - [2024 年 6 月分](https://github.com/kagomen/study-log/blob/main/2024-06.md)
-  - [2024 年 7 月分](https://github.com/kagomen/study-log/blob/main/2024-07.md)
-
-- 技術的なメモをまとめたディレクトリ
-  - [study-notes](https://github.com/kagomen/study-log/tree/main/study-notes)
+  - [2024 年 4 月分](https://github.com/kagomen/TIL/blob/main/2024-04.md)
+  - [2024 年 5 月分](https://github.com/kagomen/TIL/blob/main/2024-05.md)
+  - [2024 年 6 月分](https://github.com/kagomen/TIL/blob/main/2024-06.md)
+  - [2024 年 7 月分](https://github.com/kagomen/TIL/blob/main/2024-07.md)
+  - [2024 年 8 月分](https://github.com/kagomen/TIL/blob/main/2024-08.md)
 
 ---
 
-## 🏃‍♀️ これまでのまとめ
+# 🏃‍♀️ これまでのまとめ
 
 #### 2023 年
 
@@ -101,9 +99,7 @@
 - Cookie の設定項目の理解
 - 『Web 技術の基本』 読了
 
----
-
-## これからの予定
+# 🚀 これからの予定
 
 ## 8 月
 
