@@ -36,7 +36,7 @@
 ## 3 月
 
 - 【継続】Udemy で React の基礎を学習
-- [共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
+- 共同プロジェクト [First Contributions JA](https://github.com/kagomen/first-contributions-ja.github.io) に参加
   - チーム開発における GitHub の使い方について学ぶ
     - イシューのたて方
     - プルリク・コードレビューの方法
@@ -48,7 +48,7 @@
 
 ## 4 月
 
-- 【継続】[共同プロジェクト](https://github.com/kagomen/first-contributions-ja.github.io)に参加
+- 【継続】共同プロジェクト [First Contributions JA](https://github.com/kagomen/first-contributions-ja.github.io) に参加
   - [Version1.0.0](https://github.com/first-contributions-ja/first-contributions-ja.github.io/releases/tag/v1.0.0)リリース
 - JavaScript で簡単なゲームアプリを 1 から作る
   - [10 秒ストップウォッチゲーム](https://kagomen.github.io/10second-game/)
@@ -107,7 +107,7 @@
   - ユーザー設定の実装（メール認証？）(week2)
   - 余裕があればテスト
   - リファクタリング, README の整備(week3)
-- 共同プロジェクトの開発開始
+- 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) の開発開始
 
 ## 9 月
 
