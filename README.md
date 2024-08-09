@@ -108,6 +108,8 @@
   - 余裕があればテスト
   - リファクタリング, README の整備(week3)
 - 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) の開発開始
+  - コードレビューを積極的に行う
+- 技術記事を積極的に書く
 
 ## 9 月
 
