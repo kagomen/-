@@ -104,11 +104,12 @@
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v2 リリース
   - 利用者番号登録機能の実装 (week1)
   - お気に入り機能の実装(week1)
-  - ユーザー設定の実装（メール認証？）(week2)
+  - ユーザー設定の実装（メール認証？）(week3)
   - 余裕があればテスト
-  - リファクタリング, README の整備(week3)
+  - リファクタリング, README の整備(week4)
 - 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) の開発開始
   - コードレビューを積極的に行う
+  - Next.js, TypeScript を学ぶ
 - 技術記事を積極的に書く
 
 ## 9 月
@@ -118,4 +119,3 @@
   - 現在地取得 -> 市内の図書館の蔵書を取得
   - お気に入り一覧に図書館の予約ページをリンク
   - Google ログイン
-- TypeScript を学ぶ
