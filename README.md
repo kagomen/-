@@ -83,18 +83,18 @@
 
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) v2 の制作
   - shadcn/ui を使った UI のコンポーネント化
-  - Framer Motion を使った簡単なアニメーションの実装
-  - Cloudflare Turnstile の実装
-  - Cloudflare D1, Drizzle ORM, Lucia を使って認証機能の実装
-- Hono, Workers, Pages Functions の調査・練習
-- Session ID, Cookie を使った認証の方法を理解
-- ハッシュ化, バリデーションの理解
-- OAuth, Open ID Connect, JWT の理解
-- Basic 認証, Digest 認証, Bearer 認証の理解
-- JWT でのアクセストークンとリフレッシュトークンの使い方（ブラックリストは未実装）
-- React Query の useMutation を使った fetch 処理
-- Cookie の設定項目の理解
-  - プロキシサーバーをたてて、同一オリジンとして Cookie を扱う
+  - Framer Motion を使って簡単なアニメーションを実装
+  - お問い合わせページに Cloudflare Turnstile を追加し、BOT からのメール防止の実装
+  - Cloudflare D1, Drizzle ORM, Lucia Auth を使って認証機能を実装
+  - 同一オリジンとして Cookie を扱うため、本番環境用のプロキシサーバーを functions, \_routes.json で設定
+- Hono, Workers, Pages Functions を調査
+- Session ID, Cookie を使った認証の方法を調査
+- ハッシュ化, バリデーションについて調査
+- OAuth, Open ID Connect, JWT について調査
+- Basic 認証, Digest 認証, Bearer 認証について調査
+- 練習用リポジトリにて、JWT のアクセストークンとリフレッシュトークンを実装（ブラックリストは未実装）
+- React Query の useMutation を使った fetch 処理について調査
+- Cookie の設定項目について調査
 - 『Web 技術の基本』 読了
 
 ## 🚀 これからの予定
@@ -102,15 +102,18 @@
 ## 8 月
 
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v2 リリース
-  - 利用者番号登録機能の実装 (week1)
-  - お気に入り機能の実装(week1)
-  - ユーザー設定の実装（メール認証？）(week3)
-  - 余裕があればテスト
-  - リファクタリング, README の整備(week4)
+  - 利用者番号登録機能の実装
+  - お気に入り機能の実装
+  - PWA の設定
+  - メールアドレス, パスワード変更機能の実装/week3
+    - メール検証コードの実装
+  - Google ログインの実装/week3
+  - レスポンシブデザインの実装/week4
+  - リファクタリング, README の整備/week4
 - 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) の開発開始
   - コードレビューを積極的に行う
-  - Next.js, TypeScript を学ぶ
-- 技術記事を積極的に書く
+  - 調査内容を技術記事にする
+  - 実装しながら Next.js, TypeScript の基本を学ぶ
 
 ## 9 月
 
@@ -118,4 +121,4 @@
 - 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v3 リリース
   - 現在地取得 -> 市内の図書館の蔵書を取得
   - お気に入り一覧に図書館の予約ページをリンク
-  - Google ログイン
+  - PA-API を使って星評価を表示
