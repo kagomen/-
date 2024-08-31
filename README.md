@@ -105,33 +105,35 @@
   - PWA の設定
   - メールアドレス, パスワード変更機能の実装
     - 検証コードの実装
-- 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) の開発開始・v1 リリース
+- 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) の開発開始
   - コードレビューを積極的に行う
     - 人の書いたコードを読む力を身に付ける
     - テキストコミュニケーション能力を身に付ける
   - 調査内容を技術記事にする
+  - Next.js と TypeScript のキャッチアップ
 
 ## 🚀 これからの予定
 
-## 9 月
+## 9 月/学習開始から 10 ヶ月目
 
-- 就活開始/week2~
-- 共同プロジェクトに継続参加
-- リブラク/~week2
+- 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース
+- リブラク **/week1~2**
   - レスポンシブデザインの実装
   - バグ修正
   - README の整備
-  - v2.1/week2~
+  - v2.1 **/week2~3**
     - テストをしてみる
     - cron-job の実装
     - SEO 対策
-- 心構え的な本を読む
+- 就活開始 **/week3~**
+- 心構え的な本を読む **/week3~**
   - リーダブルコード
   - プリンシプル・オブ・プログラミング
   - 情熱プログラマー
 - 『TypeScript 詳解実践ガイド』読む・やる
 - VSCode のショートカットキーをガンガン使っていく
 
-## 10 月
+## 10 月/学習開始から 11 ヶ月目
 
 - 就職成功（希望）
+- 帰省 **week2~3**
