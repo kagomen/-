@@ -7,6 +7,7 @@
   - [2024 年 6 月分](https://github.com/kagomen/TIL/blob/main/2024-06.md)
   - [2024 年 7 月分](https://github.com/kagomen/TIL/blob/main/2024-07.md)
   - [2024 年 8 月分](https://github.com/kagomen/TIL/blob/main/2024-08.md)
+  - [2024 年 9 月分](https://github.com/kagomen/TIL/blob/main/2024-09.md)
 
 ---
 
@@ -116,7 +117,7 @@
 
 ## 9 月/学習開始から 10 ヶ月目
 
-- 共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース
+- 【継続】共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース
 - リブラク **/week1~2**
   - レスポンシブデザインの実装
   - バグ修正
@@ -130,10 +131,10 @@
   - リーダブルコード
   - プリンシプル・オブ・プログラミング
   - 情熱プログラマー
-- 『TypeScript 詳解実践ガイド』読む・やる
 - VSCode のショートカットキーをガンガン使っていく
 
 ## 10 月/学習開始から 11 ヶ月目
 
-- 就職成功（希望）
+- 【継続】就活
 - 帰省 **week2~3**
+- [就職先が決まったらやりたいこと](https://sizu.me/kagome/posts/t23d80bsfedm)をやる
