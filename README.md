@@ -110,31 +110,33 @@
   - コードレビューを積極的に行う
     - 人の書いたコードを読む力を身に付ける
     - テキストコミュニケーション能力を身に付ける
-  - 調査内容を技術記事にする
   - Next.js と TypeScript のキャッチアップ
+- 技術記事を書く
 
 ## 🚀 これからの予定
 
 ## 9 月/学習開始から 10 ヶ月目
 
-- 【継続】共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース
-- リブラク **/week1~2**
+- 【継続】共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース **/week1~2**
+  - Next.js の Route Handler や Cache について深掘る
+  - 『実践 Next.js』途中まで
+- リブラク **/week2~3**
   - レスポンシブデザインの実装
   - バグ修正
   - README の整備
-  - v2.1 **/week2~3**
-    - テストをしてみる
+  - v2.1 **/week3~4**
+    - 大雑把にテストをしてみる
+      - Vitest, Playwright
     - cron-job の実装
     - SEO 対策
-- 就活開始 **/week3~**
-- 心構え的な本を読む **/week3~**
-  - リーダブルコード
-  - プリンシプル・オブ・プログラミング
-  - 情熱プログラマー
-- VSCode のショートカットキーをガンガン使っていく
+- 技術記事を書く
 
 ## 10 月/学習開始から 11 ヶ月目
 
-- 【継続】就活
-- 帰省 **week2~3**
-- [就職先が決まったらやりたいこと](https://sizu.me/kagome/posts/t23d80bsfedm)をやる
+- 就活開始
+- VSCode のショートカットキーをガンガン使っていく
+- React のドキュメントを読みこむ
+- 『実践 Next.js』の 5〜9 章までやる（他の章は済）
+- 『TypeScript 詳解実践ガイド』
+- 技術記事を書く
+- 帰省
