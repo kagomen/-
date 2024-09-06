@@ -118,7 +118,7 @@
 ## 9 月/学習開始から 10 ヶ月目
 
 - 【継続】共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース **/week1~2**
-  - Next.js の Route Handler や Cache について深掘る
+  - Next.js の Route Handler, SSG 化, cache, fetch について深掘る
   - 『実践 Next.js』途中まで
 - リブラク **/week2~3**
   - レスポンシブデザインの実装
@@ -127,6 +127,7 @@
   - v2.1 **/week3~4**
     - 大雑把にテストをしてみる
       - Vitest, Playwright
+      - https://ics.media/entry/240820/
     - cron-job の実装
     - SEO 対策
 - 技術記事を書く
