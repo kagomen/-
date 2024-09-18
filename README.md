@@ -8,6 +8,7 @@
   - [2024 年 7 月分](https://github.com/kagomen/TIL/blob/main/2024-07.md)
   - [2024 年 8 月分](https://github.com/kagomen/TIL/blob/main/2024-08.md)
   - [2024 年 9 月分](https://github.com/kagomen/TIL/blob/main/2024-09.md)
+  - [2024 年 10 月分](https://github.com/kagomen/TIL/blob/main/2024-10.md)
 
 ---
 
@@ -100,7 +101,7 @@
 
 ## 8 月
 
-- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v2 リリース
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作
   - 利用者番号登録機能の実装
   - お気に入り機能の実装
   - PWA の設定
@@ -120,9 +121,9 @@
 - 【継続】共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース
   - Next.js の Route Handler, SSG 化, cache, fetch について深掘る
   - 『実践 Next.js』途中まで
-- リブラク
-  - レスポンシブデザインの実装
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v2 リリース **week3**
   - バグ修正
+  - リファクタリング
   - README の整備
   - v2.1 **week4**
     - 大雑把にテストをしてみる
