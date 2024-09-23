@@ -114,21 +114,20 @@
   - Next.js と TypeScript のキャッチアップ
 - 技術記事を書く
 
-## 9 月/学習開始から 10 ヶ月目
+## 9 月
 
 - 【継続】共同プロジェクト [LGTM Factory](https://github.com/lgtm-factory/lgtm-factory) に継続参加・v1 リリース
   - Next.js の Route Handler, SSG 化, cache, fetch について深掘る
   - 『実践 Next.js』途中まで
-- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v2 リリース **week3**
+- 【継続】オリジナルアプリ [リブラク](https://libraku.pages.dev/) 制作・v2 リリース
   - バグ修正
   - リファクタリング
   - README の整備
   - v2.1 **week4**
+    - Cron Trigger の実装
+    - SEO 対策
     - 大雑把にテストをしてみる
       - Vitest, Playwright
-      - https://ics.media/entry/240820/
-    - cron-job の実装
-    - SEO 対策
 
 ## 🚀 これからの予定
 
