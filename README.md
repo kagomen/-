@@ -10,6 +10,7 @@
   - [2024 年 9 月分](https://github.com/kagomen/TIL/blob/main/2024-09.md)
   - [2024 年 10 月分](https://github.com/kagomen/TIL/blob/main/2024-10.md)
   - [2024 年 11 月分](https://github.com/kagomen/TIL/blob/main/2024-11.md)
+  - [2024 年 12 月分](https://github.com/kagomen/TIL/blob/main/2024-12.md)
 
 ---
 
@@ -136,18 +137,16 @@
 - 『フロントエンド開発のためのテスト入門』を読む
 - 帰省中の空き時間に『プリンシプル・オブ・プログラミング』を読む
 
-## 🚀 これからの予定
-
 ## 11 月
 
-- 就活（SPI 対策、面接対策）
-- VSCode のショートカットキーを使い、コーディングの時間短縮を意識
-- React のドキュメントを読みこむ
-- 『実践 Next.js』の 5〜9 章までやる（他の章は済）
-- 『TypeScript 詳解実践ガイド』
-- CI/CD について調査
+- 就活（SPI、面接）
+
+## 🚀 これからの予定
 
 ## 12 月
 
 - 就活
+- Udemy『JavaScript メカニズム』
 - 『TypeScript 詳解実践ガイド』
+- 『実践 Node.js 入門』
+- 『Web を支える技術』
