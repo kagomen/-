@@ -147,6 +147,6 @@
 
 - 就活
 - Udemy『JavaScript メカニズム』
+- Udemy『Node.js 完全入門ガイド』
 - 『TypeScript 詳解実践ガイド』
-- 『実践 Node.js 入門』
 - 『Web を支える技術』
