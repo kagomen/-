@@ -145,8 +145,13 @@
 
 ## 12 月
 
-- 就活
 - Udemy『JavaScript メカニズム』
 - Udemy『Node.js 完全入門ガイド』
 - 『TypeScript 詳解実践ガイド』
-- 『Web を支える技術』
+- 『わかばちゃんと学ぶ Git 使い方入門』
+
+## 1 月
+
+- https://zenn.dev/akfm/books/nextjs-basic-principle
+- 『実践 Next.js』
+- 1/6〜入社
