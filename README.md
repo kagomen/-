@@ -145,6 +145,7 @@
 
 ## 12 月
 
+- 基本情報技術者試験の学習
 - Udemy『JavaScript メカニズム』
 - Udemy『Node.js 完全入門ガイド』
 - 『TypeScript 詳解実践ガイド』
