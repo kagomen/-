@@ -11,11 +11,8 @@
   - [2024 年 10 月分](https://github.com/kagomen/TIL/blob/main/2024-10.md)
   - [2024 年 11 月分](https://github.com/kagomen/TIL/blob/main/2024-11.md)
   - [2024 年 12 月分](https://github.com/kagomen/TIL/blob/main/2024-12.md)
-  - [2025 年 1 月分](https://github.com/kagomen/TIL/blob/main/2025-01.md)
 
 ---
-
-## 🏃‍♀️ これまでのまとめ
 
 ## 2023 年 12 月
 
@@ -148,12 +145,6 @@
 - Udemy『JavaScript メカニズム』
 - Udemy『Node.js 完全入門ガイド』
 
-# これからの予定
-
 ## 1 月
 
-- 『TypeScript 詳解実践ガイド』
-- 『わかばちゃんと学ぶ Git 使い方入門』
-- 『実践 Next.js』
-- https://zenn.dev/akfm/books/nextjs-basic-principle
 - 1/6〜入社
